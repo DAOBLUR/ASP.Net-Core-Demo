@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC8F747-3074-442A-8497-E222A607A834}|..\\StackHub.Demo.Services\\StackHub.Demo.Services.csproj|e:\\uni\\semester8\\web engineering\\tasks\\4-asp.net-core\\stackhub.demo.services\\controllers\\arduinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC8F747-3074-442A-8497-E222A607A834}|..\\StackHub.Demo.Services\\StackHub.Demo.Services.csproj|e:\\uni\\semester8\\web engineering\\tasks\\4-asp.net-core\\stackhub.demo.services\\controllers\\administratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC8F747-3074-442A-8497-E222A607A834}|..\\StackHub.Demo.Services\\StackHub.Demo.Services.csproj|e:\\uni\\semester8\\web engineering\\tasks\\4-asp.net-core\\stackhub.demo.services\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC8F747-3074-442A-8497-E222A607A834}|..\\StackHub.Demo.Services\\StackHub.Demo.Services.csproj|e:\\uni\\semester8\\web engineering\\tasks\\4-asp.net-core\\stackhub.demo.services\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC8F747-3074-442A-8497-E222A607A834}|..\\StackHub.Demo.Services\\StackHub.Demo.Services.csproj|e:\\uni\\semester8\\web engineering\\tasks\\4-asp.net-core\\stackhub.demo.services\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC8F747-3074-442A-8497-E222A607A834}|..\\StackHub.Demo.Services\\StackHub.Demo.Services.csproj|e:\\uni\\semester8\\web engineering\\tasks\\4-asp.net-core\\stackhub.demo.services\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC8F747-3074-442A-8497-E222A607A834}|..\\StackHub.Demo.Services\\StackHub.Demo.Services.csproj|e:\\uni\\semester8\\web engineering\\tasks\\4-asp.net-core\\stackhub.demo.services\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArduinoController.cs",
+              "DocumentMoniker": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Controllers\\ArduinoController.cs",
+              "RelativeDocumentMoniker": "..\\StackHub.Demo.Services\\Controllers\\ArduinoController.cs",
+              "ToolTip": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Controllers\\ArduinoController.cs",
+              "RelativeToolTip": "..\\StackHub.Demo.Services\\Controllers\\ArduinoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:54:57.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdministratorController.cs",
+              "DocumentMoniker": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Controllers\\AdministratorController.cs",
+              "RelativeDocumentMoniker": "..\\StackHub.Demo.Services\\Controllers\\AdministratorController.cs",
+              "ToolTip": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Controllers\\AdministratorController.cs",
+              "RelativeToolTip": "..\\StackHub.Demo.Services\\Controllers\\AdministratorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:10:46.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "..\\StackHub.Demo.Services\\Models\\Comment.cs",
+              "ToolTip": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Models\\Comment.cs",
+              "RelativeToolTip": "..\\StackHub.Demo.Services\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:59:08.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\StackHub.Demo.Services\\Models\\Category.cs",
+              "ToolTip": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Models\\Category.cs",
+              "RelativeToolTip": "..\\StackHub.Demo.Services\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:56:29.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "..\\StackHub.Demo.Services\\Models\\BaseModel.cs",
+              "ToolTip": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Models\\BaseModel.cs",
+              "RelativeToolTip": "..\\StackHub.Demo.Services\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:19:52.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\StackHub.Demo.Services\\Models\\User.cs",
+              "ToolTip": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Models\\User.cs",
+              "RelativeToolTip": "..\\StackHub.Demo.Services\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:18:26.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "..\\StackHub.Demo.Services\\Models\\Question.cs",
+              "ToolTip": "E:\\UNI\\semester8\\Web Engineering\\Tasks\\4-ASP.Net-Core\\StackHub.Demo.Services\\Models\\Question.cs",
+              "RelativeToolTip": "..\\StackHub.Demo.Services\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:17:42.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

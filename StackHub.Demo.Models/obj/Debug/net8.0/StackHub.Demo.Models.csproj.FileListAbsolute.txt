@@ -1,0 +1,11 @@
+E:\UNI\semester8\Web Engineering\Tasks\4-ASP.Net-Core\StackHub.Demo.Models\bin\Debug\net8.0\StackHub.Demo.Models.deps.json
+E:\UNI\semester8\Web Engineering\Tasks\4-ASP.Net-Core\StackHub.Demo.Models\bin\Debug\net8.0\StackHub.Demo.Models.dll
+E:\UNI\semester8\Web Engineering\Tasks\4-ASP.Net-Core\StackHub.Demo.Models\bin\Debug\net8.0\StackHub.Demo.Models.pdb
+E:\UNI\semester8\Web Engineering\Tasks\4-ASP.Net-Core\StackHub.Demo.Models\obj\Debug\net8.0\StackHub.Demo.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNI\semester8\Web Engineering\Tasks\4-ASP.Net-Core\StackHub.Demo.Models\obj\Debug\net8.0\StackHub.Demo.Models.AssemblyInfoInputs.cache
+E:\UNI\semester8\Web Engineering\Tasks\4-ASP.Net-Core\StackHub.Demo.Models\obj\Debug\net8.0\StackHub.Demo.Models.AssemblyInfo.cs
+E:\UNI\semester8\Web Engineering\Tasks\4-ASP.Net-Core\StackHub.Demo.Models\obj\Debug\net8.0\StackHub.Demo.Models.csproj.CoreCompileInputs.cache
+E:\UNI\semester8\Web Engineering\Tasks\4-ASP.Net-Core\StackHub.Demo.Models\obj\Debug\net8.0\StackHub.Demo.Models.dll
+E:\UNI\semester8\Web Engineering\Tasks\4-ASP.Net-Core\StackHub.Demo.Models\obj\Debug\net8.0\refint\StackHub.Demo.Models.dll
+E:\UNI\semester8\Web Engineering\Tasks\4-ASP.Net-Core\StackHub.Demo.Models\obj\Debug\net8.0\StackHub.Demo.Models.pdb
+E:\UNI\semester8\Web Engineering\Tasks\4-ASP.Net-Core\StackHub.Demo.Models\obj\Debug\net8.0\ref\StackHub.Demo.Models.dll
